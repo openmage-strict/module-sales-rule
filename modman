@@ -1,0 +1,3 @@
+src/app/code/core/Mage/SalesRule/               app/code/core/Mage/SalesRule/
+src/app/etc/modules/Mage_SalesRule.xml          app/etc/modules/Mage_SalesRule.xml
+src/app/locale/en_US/Mage_SalesRule.csv         app/locale/en_US/Mage_SalesRule.csv

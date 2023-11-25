@@ -1,0 +1,12 @@
+{
+    "name": "openmage-strict/module-sales-rule",
+    "description": "Mage_SalesRule",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-catalog": "*",
+        "openmage-strict/module-rule": "*",
+        "openmage-strict/module-sales": "*"
+    }
+}
