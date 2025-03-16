@@ -7,6 +7,9 @@
         "magento-hackathon/magento-composer-installer": "*",
         "openmage-strict/module-catalog": "^120.2",
         "openmage-strict/module-rule": "^120.2",
-        "openmage-strict/module-sales": "^120.2"
+        "openmage-strict/module-sales": "^120.2",
+        "zf1s/zend-date": "*",
+        "zf1s/zend-db": "*",
+        "zf1s/zend-exception": "*"
     }
 }
